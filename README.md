@@ -1,6 +1,6 @@
 # NetworksAssignment2
 
-# Erdős-Rényi Network Analysis  
+# Erdos-Renyi Network Analysis  
 
 This repository contains the implementation and analysis of Erdős-Rényi (E-R) random graphs for different configurations of \( n \) (number of nodes) and \( p \) (probability of edge formation).  
 
